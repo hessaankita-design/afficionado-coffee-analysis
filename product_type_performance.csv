@@ -1,0 +1,20 @@
+product_category,product_type,total_revenue,total_units,unique_products,share_within_category
+Bakery,Scone,24662.25,7061,5,53.2
+Bakery,Pastry,13329.25,3455,3,28.75
+Bakery,Biscotti,8370.25,2475,3,18.05
+Branded,Merchandise,65886.0,3973,2,100.0
+Coffee,Barista Espresso,123893.25,28613,11,43.04
+Coffee,Gourmet brewed coffee,62626.7,21080,8,21.76
+Coffee,Organic brewed coffee,54441.0,14613,5,18.91
+Coffee,Premium brewed coffee,26934.3,8382,5,9.36
+Coffee,Drip coffee,19934.5,7555,3,6.93
+Coffee Beans,Whole Bean,64710.0,3975,3,75.28
+Coffee Beans,Ground,21252.0,1518,1,24.72
+Drinking Chocolate,Hot chocolate,62318.9,14992,5,100.0
+Flavours,Syrup,14416.0,1802,1,100.0
+Loose Tea,Loose Leaf,27411.0,2831,2,100.0
+Packaged Chocolate,Bar,7722.0,1188,1,100.0
+Tea,Brewed Chai tea,67406.35,22995,7,33.97
+Tea,Brewed Black tea,56657.1,20390,7,28.56
+Tea,Brewed Green tea,38954.0,14040,4,19.63
+Tea,Brewed herbal tea,35384.5,13073,4,17.83

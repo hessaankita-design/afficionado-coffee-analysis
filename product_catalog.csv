@@ -1,0 +1,81 @@
+product_id,product_category,product_type,product_detail,unit_price
+1,Coffee,Barista Espresso,Latte Rg,4.25
+2,Coffee,Barista Espresso,Latte,3.75
+3,Coffee,Barista Espresso,Cappuccino Lg,4.25
+4,Coffee,Barista Espresso,Cappuccino,3.75
+5,Coffee,Barista Espresso,Latte Lg,4.75
+6,Coffee,Barista Espresso,Espresso shot,3.0
+7,Coffee,Barista Espresso,Ouro Brasileiro shot,3.0
+8,Coffee,Barista Espresso,Carmelized Honey Latte,4.75
+9,Coffee,Barista Espresso,Carmelized Honey Latte Lg,5.25
+10,Coffee,Barista Espresso,Mocha Rg,4.5
+11,Coffee,Barista Espresso,Mocha Lg,5.0
+12,Coffee,Gourmet brewed coffee,Ethiopia Rg,3.0
+13,Coffee,Gourmet brewed coffee,Ethiopia Lg,3.5
+14,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2.0
+15,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2.5
+16,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3.0
+17,Coffee,Gourmet brewed coffee,Ethiopian Full Roast Sm,2.2
+18,Coffee,Gourmet brewed coffee,Ethiopian Full Roast Rg,2.8
+19,Coffee,Gourmet brewed coffee,Ethiopian Full Roast Lg,3.3
+20,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2.0
+21,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5
+22,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3.0
+23,Coffee,Organic brewed coffee,Brazilian Sm,2.2
+24,Coffee,Organic brewed coffee,Brazilian Rg,3.0
+25,Coffee,Organic brewed coffee,Brazilian Lg,3.5
+26,Coffee,Organic brewed coffee,Sustainably Grown Organic Rg,3.75
+27,Coffee,Organic brewed coffee,Sustainably Grown Organic Lg,4.75
+28,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2.45
+29,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,3.1
+30,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3.75
+31,Coffee,Premium brewed coffee,Jamaican Coffee River,3.5
+32,Coffee,Premium brewed coffee,Guatemalan Sustainably Grown,3.2
+33,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2.55
+34,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,3.1
+35,Tea,Brewed Chai tea,Spicy Eye Opener Chai,2.8
+36,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5
+37,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,4.0
+38,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2.5
+39,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3.0
+40,Tea,Brewed Black tea,Earl Grey Rg,2.5
+41,Tea,Brewed Black tea,Earl Grey Lg,3.0
+42,Tea,Brewed Black tea,Earl Grey,2.8
+43,Tea,Brewed Black tea,English Breakfast Rg,2.5
+44,Tea,Brewed Black tea,English Breakfast Lg,3.0
+45,Tea,Brewed Black tea,Darjeeling Rg,2.6
+46,Tea,Brewed Black tea,Darjeeling Lg,3.2
+47,Tea,Brewed herbal tea,Peppermint Rg,2.5
+48,Tea,Brewed herbal tea,Peppermint Lg,3.0
+49,Tea,Brewed herbal tea,Lemon Grass Rg,2.5
+50,Tea,Brewed herbal tea,Lemon Grass Lg,3.0
+51,Tea,Brewed Green tea,Serenity Green Tea Rg,2.5
+52,Tea,Brewed Green tea,Serenity Green Tea Lg,3.0
+53,Tea,Brewed Green tea,Jade Green Tea Rg,2.5
+54,Tea,Brewed Green tea,Jade Green Tea Lg,3.0
+55,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,3.5
+56,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,4.5
+57,Drinking Chocolate,Hot chocolate,Dark chocolate,3.8
+58,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3.75
+59,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,4.75
+60,Bakery,Scone,Oatmeal Scone,3.0
+61,Bakery,Scone,Jumbo Savory Scone,3.75
+62,Bakery,Scone,Scottish Cream Scone,4.5
+63,Bakery,Scone,Cranberry Scone,3.25
+64,Bakery,Scone,Ginger Scone,3.25
+65,Bakery,Biscotti,Hazelnut Biscotti,3.25
+66,Bakery,Biscotti,Chocolate Chip Biscotti,3.5
+67,Bakery,Biscotti,Ginger Biscotti,3.5
+68,Bakery,Pastry,Chocolate Croissant,3.75
+69,Bakery,Pastry,Almond Croissant,4.0
+70,Bakery,Pastry,Cinnamon Roll,3.75
+71,Coffee Beans,Whole Bean,Ethiopia Whole Bean 12oz,18.0
+72,Coffee Beans,Whole Bean,Columbian Whole Bean 12oz,16.5
+73,Coffee Beans,Whole Bean,Brazilian Whole Bean 12oz,15.0
+74,Coffee Beans,Ground,Our Old Time Diner Blend Ground 12oz,14.0
+75,Branded,Merchandise,Afficionado Mug,12.0
+76,Branded,Merchandise,Afficionado T-Shirt,22.0
+77,Loose Tea,Loose Leaf,Earl Grey Loose 4oz,10.0
+78,Loose Tea,Loose Leaf,Peppermint Loose 4oz,9.5
+79,Flavours,Syrup,Vanilla Syrup 12oz,8.0
+80,Packaged Chocolate,Bar,Dark Chocolate Bar 3oz,6.5
